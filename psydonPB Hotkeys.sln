@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "psydonPB Hotkeys", "psydonPB Hotkeys\psydonPB Hotkeys.csproj", "{CC9658D0-52FF-402E-946E-C753C5EB365B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9658D0-52FF-402E-946E-C753C5EB365B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9658D0-52FF-402E-946E-C753C5EB365B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9658D0-52FF-402E-946E-C753C5EB365B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9658D0-52FF-402E-946E-C753C5EB365B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {863018E5-F0E2-4619-B05D-BF483CA1F1A5}
+	EndGlobalSection
+EndGlobal
